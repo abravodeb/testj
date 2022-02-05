@@ -5,5 +5,5 @@ date
 date -> date.txt
 
 cat /etc/apt/sources.list
-host=$(hostnamec)
+host=$(hostname)
 echo "hostnamec is " $host
